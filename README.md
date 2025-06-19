@@ -25,42 +25,41 @@ Os prompts foram cuidadosamente escritos para gerar imagens convincentes, respei
 
 ---
 
-## 📸 Perfis Criados
+📸 Perfis Criados
 
-### 🧳 Lia “Pé na Areia” Martins – 26 anos  
+🧳 **Lia “Pé na Areia” Martins – 26 anos**  
 🌴 Alma praiana, vive entre ondas e pores do sol.  
 📍 #VidaNômade #PazInterior  
 
-🗨️ _“Desconectei do Wi-Fi e reconectei com o universo. Às vezes, tudo que você precisa é de um oceano, um livro e silêncio.”_
+🗨️ “Desconectei do Wi-Fi e reconectei com o universo. Às vezes, tudo que você precisa é de um oceano, um livro e silêncio.”  
+![Lia Pé Na Areia](lia_pe_na_areia.jpg)
 
-![Lia Pé Na Areia](lia pé na areia.png).
 ---
 
-
-
-### 🌋 Diego “Altitude” Rocha – 34 anos  
+🌋 **Diego “Altitude” Rocha – 34 anos**  
 🏞️ Viciado em trilhas e montanhas, onde o ar é mais puro.  
 📍 #VidaNaMontanha #SemFiltros  
 
-🗨️ _“Essa vista custou 5 horas de subida e um tênis furado. Valeu a pena? Cada passo.”_
+🗨️ “Essa vista custou 5 horas de subida e um tênis furado. Valeu a pena? Cada passo.”  
+![Diego Altitude](diego_altitude.jpg)
 
 ---
 
-### 🧘 Isis “ZenTrip” Oliveira – 29 anos  
+🧘 **Isis “ZenTrip” Oliveira – 29 anos**  
 🧘 Espiritual, mística e leve como um incenso ao vento.  
 📍 #VibeAlta #NaturezaInterior  
 
-🗨️ _“O mundo exterior reflete o interior. Hoje, meu templo foi esse céu rosa sobre o lago.”_
+🗨️ “O mundo exterior reflete o interior. Hoje, meu templo foi esse céu rosa sobre o lago.”  
+![Isis ZenTrip](isis_zentrip.jpg)
 
 ---
 
-### 📷 Henrique “Flash” Almeida – 30 anos  
+📷 **Henrique “Flash” Almeida – 30 anos**  
 📸 Fotógrafo e viajante urbano, sempre em busca do clique perfeito.  
 📍 #TruqueOuViagem #EstéticaDigital  
 
-🗨️ _“Talvez o pôr do sol nem estivesse tão bonito. Mas com o filtro certo, tudo vira poesia visual.”_
-
----
+🗨️ “Talvez o pôr do sol nem estivesse tão bonito. Mas com o filtro certo, tudo vira poesia visual.”  
+![Henrique Flash](henrique_flash.jpg)
 
 ## 🚀 Resultados
 
