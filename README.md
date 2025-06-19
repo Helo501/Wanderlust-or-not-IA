@@ -32,7 +32,8 @@ Os prompts foram cuidadosamente escritos para gerar imagens convincentes, respei
 📍 #VidaNômade #PazInterior  
 
 🗨️ _“Desconectei do Wi-Fi e reconectei com o universo. Às vezes, tudo que você precisa é de um oceano, um livro e silêncio.”_
-![Lia Pé Na Areia]_(lia pé na areia.png).
+
+![Lia Pé Na Areia](lia pé na areia.png).
 ---
 
 
