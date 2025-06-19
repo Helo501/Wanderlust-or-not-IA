@@ -32,7 +32,7 @@ Os prompts foram cuidadosamente escritos para gerar imagens convincentes, respei
 📍 #VidaNômade #PazInterior  
 
 🗨️ “Desconectei do Wi-Fi e reconectei com o universo. Às vezes, tudo que você precisa é de um oceano, um livro e silêncio.”  
-![Lia Pé Na Areia](lia_pe_na_areia.jpg)
+![Lia Pé Na Areia](lia_pe_na_areia.png)
 
 ---
 
@@ -41,7 +41,7 @@ Os prompts foram cuidadosamente escritos para gerar imagens convincentes, respei
 📍 #VidaNaMontanha #SemFiltros  
 
 🗨️ “Essa vista custou 5 horas de subida e um tênis furado. Valeu a pena? Cada passo.”  
-![Diego Altitude](diego_altitude.jpg)
+![Diego Altitude](diego_altitude.png)
 
 ---
 
@@ -50,7 +50,7 @@ Os prompts foram cuidadosamente escritos para gerar imagens convincentes, respei
 📍 #VibeAlta #NaturezaInterior  
 
 🗨️ “O mundo exterior reflete o interior. Hoje, meu templo foi esse céu rosa sobre o lago.”  
-![Isis ZenTrip](isis_zentrip.jpg)
+![Isis ZenTrip](isis_zentrip.png)
 
 ---
 
@@ -59,7 +59,8 @@ Os prompts foram cuidadosamente escritos para gerar imagens convincentes, respei
 📍 #TruqueOuViagem #EstéticaDigital  
 
 🗨️ “Talvez o pôr do sol nem estivesse tão bonito. Mas com o filtro certo, tudo vira poesia visual.”  
-![Henrique Flash](henrique_flash.jpg)
+![Henrique Flash](henrique_flash.png)
+
 
 ## 🚀 Resultados
 
